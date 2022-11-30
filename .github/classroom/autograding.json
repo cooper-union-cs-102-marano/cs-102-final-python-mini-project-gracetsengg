@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Run Python",
+      "setup": "",
+      "run": "python ./program.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
