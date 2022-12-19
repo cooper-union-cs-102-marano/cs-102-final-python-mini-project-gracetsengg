@@ -7,7 +7,7 @@ Because there are no cumulative admission statistics of Northwestern undergradua
 
 HOW TO USE: 
 
-If the method Professor Marano uses to run this program does not work at first, download the Admit_Rate.csv, Scores.csv, and GraceTsengPython.ipynb.  Copy the code into colabs from GraceTsengPython.ipynb and upload the files needed to run the program (Admit_Rate.csv and Scores.csv). THANK YOU FOR USING!
+If the method Professor Marano uses to run this program does not work at first, download the Admit_Rate.csv, Scores.csv, and GraceTsengPython.ipynb.  Copy the code into colabs from GraceTsengPython.ipynb and upload the files needed to run the program (Admit_Rate.csv and Scores.csv) under contents section. THANK YOU FOR USING!
 
 YOUTUBE VIDEO:
 
