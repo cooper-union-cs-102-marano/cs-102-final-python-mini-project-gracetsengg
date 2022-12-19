@@ -4,7 +4,7 @@
 
 Because there are no cumulative admission statistics of Northwestern undergraduates from the years 2000 to 2021 and it is Common App season, I created a program that analyzes data from Northwestern to calculate and graph admission statistics for users to utilize to estimate their chances of admission. This program showcases the percentage of male, female, and total admitted students in addition to their average SAT and ACT scores over the time period 2000 to 2021. 
 
-youtube video: 
+youtube video: https://youtu.be/fvDnaiBe3Y4
 
 
 
