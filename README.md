@@ -11,7 +11,7 @@ If the method Professor Marano uses to run this program does not work at first, 
 
 YOUTUBE VIDEO:
 
-youtube video: https://youtu.be/fvDnaiBe3Y4
+youtube video: https://youtu.be/04sztFg_FqQ
 
 LINK TO NOTEBOOK:
 
